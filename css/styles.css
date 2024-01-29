@@ -11735,7 +11735,7 @@ html {
                 .float-button {
                     bottom: 10px;
                     right: 10px;
-                    width: 80%; /* Set the width to 80% on smaller screens */
+                    width: auto; /* Set the width to 80% on smaller screens */
                     height: 48px; /* Keep the height constant */
                 }
             }
