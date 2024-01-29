@@ -11731,4 +11731,11 @@ html {
     width: 1.5vw;
     left: -2vw;
   }
+  /* Add this CSS for the floating button */
+.float-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
 }
